@@ -7,3 +7,5 @@ The components in this project are :
 - Image List
 - Search Bar
 
+
+![image](https://user-images.githubusercontent.com/36306586/60816807-28eef180-a1a3-11e9-9ae5-ded331620cb1.png)
